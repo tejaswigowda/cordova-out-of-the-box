@@ -1,2 +1,1 @@
-# cordova-out-of-the-box
-Cordova project files for iOS and Android
+# cordova-out-of-the-box Android
